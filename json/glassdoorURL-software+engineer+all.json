@@ -1,0 +1,868 @@
+[
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-echelon-consulting-JV_IC1128808_KO0,17_KE18,36.htm?jl=2420924675", 
+        "industry": "Information Technology", 
+        "FinalURL": "http://www.echelonllc.com/web/echelon/application-developer", 
+        "datePosted": "2017-11-22", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/440140/echelon-consulting-squarelogo-1441223803576.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Chicago", 
+                "addressRegion": "IL", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "ECHELON CONSULTING"
+        }, 
+        "@type": "JobPosting", 
+        "description": "<b>What You&#039;ll Do<br><br></b><p>The selected candidate will be part of a team that builds and supports custom, enterprise-wide, Web-based applications for our clients. In this position, the candidate will experience the full lifecycle of application development in an energetic and professional team environment.</p><br><b>Responsibilites<br><br></b><p>The primary function of this position is to design, build, deploy, and support enterprise-wide, Web-based applications for our global clients by performing the following duties:</p><ul><li><p>Design, code, and implement new systems using a variety of technologies.</p></li><li><p>Implement bug fixes and enhancements on existing systems.</p></li><li><p>Ensure system quality by performing unit and full system testing.</p></li><li><p>Provide user support as needed.</p></li><li><p>Document system requirements as needed.</p></li></ul><br><b>What You&#039;ll Need<br><br></b><p>To succeed in this challenging role, candidates should possess the following characteristics:</p><ul><li><p>Minimum 2 years development experience utilizing Java/J2EE or C#/.NET</p></li><li><p>Experience with one or more RDBMS (Oracle, SQL Server, PostgreSQL)</p></li><li><p>Experience with client-side technologies: HTML/XHTML, CSS, JavaScript, AJAX</p></li><li><p>Experience or exposure to any of the following is a plus: .NET, Apache Tomcat, Hibernate, Struts, Spring, Velocity, Crystal Reports, SQL Server Reporting Services, Linux, Liferay, Microsoft SharePoint</p></li><li><p>Ability to work as part of a small team</p></li><li><p>Ability to support existing systems and interact with end users</p></li><li><p>Ability to quickly learn and implement new technologies</p></li><li><p>Strong work ethic and ability to meet strict deadlines</p></li><li><p>Strong verbal and written communications skills</p></li></ul><br><b>Who You Are<br><br></b><ul><li><p>Driven learner who loves researching new technologies</p></li><li><p>Well educated and experienced technologist who can function throughout the entire technical stack</p></li><li><p>Business minded professional who understands how to transform business needs into technical solutions</p></li><li><p>Collaborative Engineer who is able to work independently or as part of a small team</p></li><li><p>Strong verbal and written communicator with the ability to interface directly with clients</p></li></ul><br><b>How to reach us:</b><p>Email your resume to inquiries@echelon.org</p><br><p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-novus-partners-JV_IC1139761_KO0,17_KE18,32.htm?jl=2560102124", 
+        "industry": "Finance", 
+        "FinalURL": "", 
+        "datePosted": "2017-11-09", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/662867/novus-partners-squarelogo-1453415371575.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Austin", 
+                "addressRegion": "TX", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Novus Partners"
+        }, 
+        "@type": "JobPosting", 
+        "description": "Novus is an innovative company that is changing the way the world invests. We are a high growth, disruptive technology firm bringing big data analytics to the alternative investment industry. Our platform enables investors to consistently maximize their performance potential through discovery of true investment acumen and risk, proprietary industry insights and expertise, and effortless data management and enlightenment.<br/><br/>Software is a foundational component of our business and we only hire the best. We are seeking energetic developers with an eye for scalable, elegant code and a passion for continuous learning.<br/><br/><strong>Background</strong><br/><br/>We operate in an industry in which over $120 Trillion is invested annually on behalf pension / endowment / sovereign funds, and private investors / family offices. And yet, the lack of data intelligence and insight results in much of that money being invested based purely on historic track record, with little transparency into performance acumen and / or risk management. This is our challenge and our purpose: to help investors make better investments. And in doing so, we aim to provide the single network on which trusted professionals will engage, promote, and manage their business. In short, we want to help the world invest better. And we need you.<br/><br/><strong>Role</strong><br/><br/>You will report to one of our VPs of Engineering, and be based in Austin.<br/><br/>You will play a pivotal role in one of our many small development teams. You will work within a modern technology stack, autonomously and collaboratively, to make tangible impact for our clients.<br/><br/><strong>Responsibilities will include:</strong><ul><li>Transforming product vision into composable and scalable architecture</li> <li>Implementing complex systems, in short iterations, that delight our customers.</li><li>Developing deep expertise in portfolio analysis and the alternative investment industry</li><li>Enhancing and re-imaginning core infrastructure components to increase stability and speed</li><li>Growing your software development skills using Functional and Object Oriented principles</li></ul>We&#039;re looking for people who are smart, humble, and care deeply about our mission.<br/><br/><strong>Culture</strong><br/><br/>Our culture is critical to us. Its how we push ourselves every day to do better than the day before. We expect our team members to deliver on their responsibilities, understand how each and every component of our company works to generate success, and hold themselves and their colleagues accountable to the highest standards.<br/><br/>As a result, we will enjoy talking to you if:<ul><li>You are challenged and fulfilled by interesting and difficult problems and expect the same from colleagues.</li><li>When uncomfortable with the status quo you push to drive change.</li><li>You have a thirst for learning; strong history of skill improvement and learning new technologies.</li><li>You love to build things in your free time and contribute to the open source community.</li><li>You are smart, ambitious, supportive, and inspire others to fulfill their potential.</li></ul><strong>Critical Skills/Abilities</strong><ul><li>You can own challenging problems from inception to production.</li><li>You write correct, robust, performant, scalable and readable code.</li><li>You approach problems with a logical mindset and deliver systematic solutions.</li><li>You articulate complexity in linear, digestible, audience-appropriate language.</li><li>2+ years post graduate experience working in small, high growth dev teams.</li><li>A mature interest in finance coupled with an understanding of portfolio theory and market dynamics.</li></ul>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-connected-technology-solutions-JV_IC1133576_KO0,17_KE18,48.htm?jl=2533619974", 
+        "industry": "Manufacturing", 
+        "FinalURL": "https://www.glassdoor.com/job-listing/easyApply_input.htm?jl=2533619974", 
+        "datePosted": "2017-12-04", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Menomonee Falls", 
+                "addressRegion": "WI", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Connected Technology Solutions"
+        }, 
+        "@type": "JobPosting", 
+        "description": "This is a full stack software engineering position responsible for developing new and existing frontend and backend cloud software to be utilized with CTS kiosks across multiple clients.<br/><br/><strong>Education/Experience Requirements:</strong><ul> <li>Bachelor\u2019s degree or equivalent in MIS, Computer Science or related field</li><li>Minimum 3 years of experience in web and software development</li></ul><strong>Software Engineer Job Responsibilities:</strong><ul> <li>Creating software requirement specifications</li><li>Software and relational database design</li><li>Software development, testing, and implementation</li><li>Ongoing support and maintenance of implemented software</li><li>Assisting in the support and maintenance of our network infrastructure</li></ul><strong>Skills and Competencies Requirements:</strong><br/><br/>Demonstrated knowledge of various technologies, such as:<ul> <li> Angular (4.0)</li> <li> Java o CSS, SASS, LESS Spring Framework: Boot, Data, MVC</li> <li> Relational Database knowledge, SQL and ORM (JPA, Hibernate)</li><li> AWS Cloud Experience o Unix</li> </ul><strong>Essential Competencies:</strong><ul> <li>Strong Communication</li> <li> Analytical/Detail Oriented</li> <li> Assertiveness</li> <li> Decision Making</li> <li> Customer Focus</li> <li> Positivity</li> <li> Collaborative</li> </ul><strong>Position includes excellent benefits package such as:</strong><ul> <li>Medical-vision/dental and life insurance plans</li><li>401(k) plan</li><li>Paid Holidays</li><li>Personal Paid Time Off</li></ul>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-verathon-JV_IC1150445_KO0,17_KE18,26.htm?jl=2511256716", 
+        "industry": "Manufacturing", 
+        "FinalURL": "https://recruiting.ultipro.com/ROP1001ROPER/JobBoard/7d635a07-23d0-4415-a408-0c525bd847b5/OpportunityDetail?opportunityId=5f3fb862-5060-44e6-bed3-a842373200fa", 
+        "datePosted": "2017-12-04", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/191526/verathon-squarelogo-1447803930429.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Bothell", 
+                "addressRegion": "WA", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Verathon"
+        }, 
+        "@type": "JobPosting", 
+        "description": "<strong>Software Engineer - Verathon\u00ae</strong> <br/><br/><strong>Verathon</strong> has an exciting opportunity in our New Product Development group for a Software Engineer. This position will be responsible for systems software and applications development in support of our latest medical devices and products.<br/><br/>This Software Engineer is expected to work with the team to provide technical acumen and apply development skills to a variety of technologies. This position encompasses both research and prototyping for potential new products, and medical product development using a formal quality system.<br/><br/><strong>Principal Responsibilities</strong><ul><li>Participate in research and development of prototypes for a variety of new medical products, including use of cloud-based micro services and deep learning algorithms.</li><li>Participate in formal product requirements definition, detailed design, coding, testing and integration.</li><li>Develop firmware and unit tests for embedded Linux and bare metal systems, primarily using C/C++.</li><li>Deliver robust software releases for medical device manufacturing under a formal quality system (IEC-62304), and as needed support those releases in manufacturing.</li><li>Requires close interaction and participation with a multidisciplinary team including software, hardware, signal processing, and test engineers.</li></ul><strong>Knowledge, Skills, and Abilities</strong><ul><li>BSCS, BSEE, or equivalent technical degree or substantial work experience required.</li><li>5+ years\u2019 experience developing embedded software; experience with medical or avionic development processes is a plus, as is experience with developing micro services or cloud-based services.</li><li>Experience developing firmware for ARM Cortex-Mx or other 32-bit MCU (bare metal, device drivers, and state machines) using IDEs such as IAR, Keil, Atollic, etc. Experience with lab equipment such as oscilloscopes, logic analyzers, and JTAG is required.</li><li>Experience with developing/debugging Linux kernel drivers and user-level drivers is a plus.</li><li>Experience with object-oriented analysis, design and development in a team environment is a plus.</li><li>Experience providing accurate estimates and meeting your scheduled commitments.</li><li>Experience making independent judgments using sound engineering principles and techniques.</li><li>Good software development process skills including source code configuration management (Git).</li><li>Good software documentation skills.</li></ul><strong>About Verathon:</strong><br/><br/>Verathon is a wholly owned subsidiary of Roper Industries, an acquisitive S&amp;P 500 and NYSE listed diversified growth company. Verathon is headquartered in the greater Seattle area, in Bothell, Washington, and has 7 international subsidiaries in Canada, Europe and Asia. The company designs, manufactures, distributes and markets reliable, state-of-the-art medical devices and services to the health care community that offer meaningful improvement in patient care. Our largest brands, BladderScan and GlideScope, have achieved worldwide recognition as the number one leader in their respective markets. Verathon is a financially sound company with consistent growth and performance even during down market cycles. We have a strong pipeline of new products for multiple areas of discipline within the health care industry.<br/><br/>Verathon was acquired by Roper Industries (US Ticker symbol ROP) in December 2009 as a platform for future acquisitions leveraging the talented management team and extraordinary channel development in developed country markets.<br/><br/><em>Verathon offers competitive compensation and a complete benefits package to full-time employees including company sponsored health plan, 401k with match, wellness and tuition reimbursement and the advantages of an environment that supports your development and recognizes your achievements.</em><br/><br/><em>Verathon is an equal opportunity employer and strongly supports diversity in the workplace. We believe that diverse ideas, opinions and perspectives will build a strong foundation for success.</em>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-asymmetrik-JV_IC1153524_KO0,17_KE18,28.htm?jl=2320554614", 
+        "industry": "Information Technology", 
+        "FinalURL": "", 
+        "datePosted": "2017-11-30", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/838913/asymmetrik-squarelogo-1440100882018.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Annapolis Junction", 
+                "addressRegion": "MD", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Asymmetrik"
+        }, 
+        "@type": "JobPosting", 
+        "description": "<p>If your first thought when encountered by any daily inefficiency is \u201cI could write a program that is better than this\u2026.\u201d then this job is for you! (It\u2019s ok if you never actually get around to writing that program. We get it.)</p><div><div><div><div><p><strong>WHAT YOU\u2019LL DO:</strong></p><ul><li>Design, develop, test, and maintain production-level enterprise applications deployed to cloud infrastructure</li><li>Extend open-source libraries and systems as necessary to meet the needs of the team</li><li>Design and implement functionality that spans from storage to middleware to browser</li><li>Create interactive Web-based user interface components and data visualizations</li><li>Work closely with customers and teammates to rapidly build, test, and deploy new capabilities</li></ul><p><strong>TASKS YOU MIGHT WORK ON:</strong></p><ul><li>Investigate ways to model historical event behavior to provide baselines for comparison when visualizing current event activity</li><li>Stand up an instance of Zeppelin for an Apache Spark cluster on AWS and write a Spark analytic that summarizes event data stored in AWS S3 and writes the results to Elasticsearch</li><li>Build and maintain a streaming ETL infrastructure capable of reliably processing thousands of events a second and writing them to a clustered Kafka topic</li></ul><p><strong>WHY WE SHOULD TALK:</strong></p><ul><li>You love technology (eg. MEAN, LAMP, ELK, Spark, Storm, Cassandra, Hadoop, AWS, and more)</li><li>You\u2019ve got a solid foundation in development, and aren\u2019t tied to one language or framework\u2014we\u2019re using Java, JavaScript, C++, PHP, Python, HTML, CSS, AngularJS and Spring (among others)</li><li>You\u2019re tired of refactoring someone else\u2019s code built on ancient technology</li><li>You want to work in a lively yet laid-back environment full of people who love learning (and craft beer/fine coffee)</li><li>You\u2019re tired of being bored at work; and you remember when coding used to be fun</li><li>You want to build stuff people actually use</li><li>Because tabs > spaces. Because spaces>tabs. ugh, nevermind\u2026 O_o</li><li>You\u2019re a U.S. Citizen and want to obtain a high-level security clearance</li></ul><p><strong>TL;DR</strong></p><p>Do you love to code? Doesn\u2019t matter if it\u2019s the front-end, back-end, storage, analytics. You love it all? You\u2019re in the right place\u2014so do we!</p></div><div> </div></div></div></div><div> </div><p><strong>WHAT YOU\u2019LL DO:</strong></p><ul><li>Design, develop, test, and maintain production-level enterprise applications deployed to cloud infrastructure</li><li>Extend open-source libraries and systems as necessary to meet the needs of the team</li><li>Design and implement functionality that spans from storage to middleware to browser</li><li>Create interactive Web-based user interface components and data visualizations</li><li>Work closely with customers and teammates to rapidly build, test, and deploy new capabilities</li></ul><p><strong>TASKS YOU MIGHT WORK ON:</strong></p><ul><li>Investigate ways to model historical event behavior to provide baselines for comparison when visualizing current event activity</li><li>Stand up an instance of Zeppelin for an Apache Spark cluster on AWS and write a Spark analytic that summarizes event data stored in AWS S3 and writes the results to Elasticsearch</li><li>Build and maintain a streaming ETL infrastructure capable of reliably processing thousands of events a second and writing them to a clustered Kafka topic</li></ul><p><strong>WHY WE SHOULD TALK:</strong></p><ul><li>You love technology (eg. MEAN, LAMP, ELK, Spark, Storm, Cassandra, Hadoop, AWS, and more)</li><li>You\u2019ve got a solid foundation in development, and aren\u2019t tied to one language or framework\u2014we\u2019re using Java, JavaScript, C++, PHP, Python, HTML, CSS, AngularJS and Spring (among others)</li><li>You\u2019re tired of refactoring someone else\u2019s code built on ancient technology</li><li>You want to work in a lively yet laid-back environment full of people who love learning (and craft beer/fine coffee)</li><li>You\u2019re tired of being bored at work; and you remember when coding used to be fun</li><li>You want to build stuff people actually use</li><li>Because tabs > spaces. Because spaces>tabs. ugh, nevermind\u2026 O_o</li><li>You\u2019re a U.S. Citizen and want to obtain a high-level security clearance</li></ul><p><strong>TL;DR</strong></p><p>Do you love to code? Doesn\u2019t matter if it\u2019s the front-end, back-end, storage, analytics. You love it all? You\u2019re in the right place\u2014so do we!</p>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-wi-fi-alliance-JV_IC1147439_KO0,17_KE18,32.htm?jl=2505613266", 
+        "industry": "Information Technology", 
+        "FinalURL": "https://www.glassdoor.com/job-listing/easyApply_input.htm?jl=2505613266", 
+        "datePosted": "2017-11-28", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/591330/wi-fi-alliance-squarelogo-1418934472810.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Santa Clara", 
+                "addressRegion": "CA", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "WI-FI Alliance"
+        }, 
+        "@type": "JobPosting", 
+        "description": "Development of Wi-Fi test automation software, support of program development and self-certification business by providing and delivering high-value solutions. He/she will work with the best technical and marketing talent within Wi-Fi Alliance member companies, driving industry-visible efforts that support the mission of establishing Wi-Fi technology as the center of seamless connectivity.<br/><br/>Wi-Fi Alliance is seeking a Software Engineer to develop and support Wi-Fi test automation software, support program development and self-certification business by providing and delivering high-value solutions. Reports to Director, Software Engineering.<br/><br/><strong>Duties</strong><br/><br/>\u00b7 Development of Wi-Fi Alliance test automation software<br/><br/>\u00b7 Develop new Wi-Fi Alliance program with teams and members<br/><br/>\u00b7 Solve technical problem across multiple teams<br/><br/>\u00b7 Stay abreast of emerging technologies and trends and communicate to the business<br/><br/>\u00b7 Embrace the innovative culture and actively participate in innovation<br/><br/>\u00b7 Recommend development best practices<br/><br/><strong>Experience/Skills</strong><br/><br/>\u00b7 Experienced in Wi-Fi, software and test automation development<br/><br/>\u00b7 Excellent analytic and problem-solving skills with proficiency in diagnosing and troubleshooting complex software system that runs on multiple platforms including Linux and Windows<br/><br/>\u00b7 Solid experience in design and development of network, multi-threaded, database, embedded, and distributed applications<br/><br/>\u00b7 Strong and effective inter-personal and communication skills and the ability to interact professionally with a diverse group of clients<br/><br/>\u00b7 Strong object-oriented analysis and design experience and familiar with design patterns and various software architectures<br/><br/>\u00b7 Experienced in C, C++, Python, Perl<br/><br/>\u00b7 BS in CS or EE or science field with 3 years of experience or equivalent<br/><br/>\u00b7 Self-motivated with minimal supervision<br/><br/>\u00b7 Familiar with Wi-Fi certification and process will be a plus<br/><br/><strong>Education</strong><br/><br/>\u00b7 BS in Computer Science or Electrical Engineering or science field with 3 or more years of experience<br/><br/><strong>Salary, Benefits, Etc.</strong><br/><br/>\u00b7 Compensation commensurate with education and experience<br/><br/>\u00b7 Competitive benefits, including health, dental, vision, 401K<br/><br/>\u00b7 Position located in Santa Clara, CA\u2014no relocation<br/><br/><strong><br/>Position located in Santa Clara, CA\u2014no relocation, local candidates only</strong><br/><br/>Interested candidates should send your resume to jobs@wi-fi.org.<br/><br/>Wi-Fi Alliance participates in E-Verify. For more information, please refer to www.dhs.gov/E-Verify<br/><br/><strong><br/>Company Description</strong><br/><br/>Wi-Fi Alliance is a rapidly-growing global trade organization that prizes collaboration. We work with cutting edge technology in a dynamic and inspiring work culture that supports a strong work/life balance, new opportunities, and individual growth. Regardless of discipline, all who work here contribute to delivering the terrific user experience for which Wi-Fi is known.<br/><br/>Our work is challenging but rewarding, and we take time to celebrate our success. The environment is supportive, providing opportunities for every employee to contribute to strategic programs and learn through hands-on experience.<br/><br/><strong>Compensation</strong><br/><br/>Competitive compensation and benchmark benefits package: 100% paid healthcare premiums, 401K matching, generous PTO, fitness allowance. Staff travel all over the world to engage with members, partners, and government \u2013 a unique opportunity to gain international experience and witness the impact of Wi-Fi.<br/><br/>An unbeatable professional network. Employees collaborate daily with representatives from a virtual \u201cWho\u2019s Who\u201d of the high-tech industry and contribute to the advancement of Wi-Fi into growing sectors including Internet of Things and healthcare.<br/><br/>Qualified applicants are invited to send their resume, salary history, and compensation expectations to cjones@wi-fi.org"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-veritas-JV_IC1147431_KO0,17_KE18,25.htm?jl=2603179441", 
+        "industry": "Information Technology", 
+        "FinalURL": "https://veritas.wd1.myworkdayjobs.com/en-US/careers/job/Mountain-View-CA---all-locat/Software-Engineer_46264", 
+        "datePosted": "2017-12-02", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/1093041/veritas-squarelogo-1445386351183.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Mountain View", 
+                "addressRegion": "CA", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Veritas"
+        }, 
+        "@type": "JobPosting", 
+        "description": "<strong>Company Overview</strong><br/><br/>Veritas&#039; vision is to enable organizations to thrive in this new world of digital business.<br/><br/>Did you know that the International Data Corporation (IDC) predicts that data will double every 2 years, reaching 44 zeta bytes by 2020? That&#039;s more bytes than gallons of water in the ocean and an exponentially growing problem for businesses. Veritas helps organizations harness the power of their data &amp; turn it into actionable insights.<br/><br/>We believe information is everything! Data is an organization&#039;s digital currency; a critical business asset that is growing in value. We are the only company that provides a data management platform to address the core challenge of accessing, managing, and analyzing all of their data, no matter where it is, in real time - allowing organizations to truly maximize the value of their data.<br/><br/>The Appliance Solutions (AS) organization is changing the backup and recovery game for customers\u2014built on industry-leading backup software, our appliances address the technical complexities of modern data protection and optimized secondary storage for companies of all sizes. As the fastest-growing organizations within Veritas, Appliance Solutions is in the business of solving customer problems better than anyone else. Entrepreneurial in nature, get-it-done attitude, mindset to win, culture of open, transparent communication and collaboration are the core values that drive its success<br/><br/>Appliance Solutions Engineering is currently looking for motivated individuals who not only \u201cdo\u201d but are also leaders who influence change and make a difference. The team is always looking for passionate, dedicated individuals who are self-motivated in their work and careers.<br/><br/><strong>Responsibilities</strong><ul><li>Participating in Agile development activities including sprint planning, stand-ups, retrospectives and demos.</li><li>Responsible for design, implementation, test, automating and maintenance of software modules to a high quality standard</li><li>Strives daily to increase the code coverage numbers for test code</li><li>Able to work in various layers of the software stack</li><li>Participates in peer reviews</li><li>Ability to work on full stack development (Frontend and Backend)</li><li>Ability to work in a fast paced and challenging environment</li><li>Communicate and collaborate among cross-functional teams in a multinational environment</li><li>Lead or participate in a scrum team to continuously improve</li></ul><strong>Qualifications</strong><ul><li>2+ years\u2019 experience with in-depth knowledge of the required programming languages Java or GoLang</li><li>Excellent software engineering skills are a must, as you\u2019ll be working with some of the best in the industry</li><li>Experience with <strong>OOP</strong> and multi-threaded application development (using <strong>Enterprise Java</strong> and <strong>Spring Framework</strong> is a plus)</li><li>Experience with <strong>Python</strong>, <strong>Perl</strong> or a scripting language</li><li>Experience of developing <strong>REST based web services</strong></li><li>Experience in user interface development using <strong>Angular JS</strong> and <strong>HTML5</strong></li><li>Experience working on <strong>AWS</strong> infrastructure</li><li>Experience working with databases like <strong>MongoDB</strong>, <strong>MsSQL</strong></li><li>Experience developing highly secure, scalable, Internet facing solutions</li><li>Experience programming on <strong>Linux platform</strong></li><li>Good debug/problem-solving and organizational skills</li><li>A fast learner and self-starter with intellectual horsepower</li><li>Excellent communication skills, both oral and written</li><li>Excellent working in a collaborative team environment</li><li>Ability to work without supervision</li><li>Experience with Agile development methodologies including unit testing, test-driven development, Continuous Integration, Continuous Testing, Pairing, Automated Testing is a plus</li><li>Knowledge of Networking and Storage a plus</li><li>Knowledge of cloud infrastructure design a plus</li><li>Experience with continuous software delivery model is a plus</li><li>Degree in Computer Science (Masters preferred) or equivalent experience required</li></ul>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-turnitin-JV_IC1152990_KO0,17_KE18,26.htm?jl=2599100947", 
+        "industry": "Information Technology", 
+        "FinalURL": "https://jobs.smartrecruiters.com/TurnitinLLC/743999663102253-software-engineer", 
+        "datePosted": "2017-11-29", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/713876/turnitin-com-squarelogo-1398462871036.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Pittsburgh", 
+                "addressRegion": "PA", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Turnitin, LLC"
+        }, 
+        "@type": "JobPosting", 
+        "description": "<strong>Company Description</strong><br/><br/>Turnitin is revolutionizing the experience of writing to learn. Turnitins formative feedback and originality checking services promote critical thinking, ensure academic integrity and help students improve their writing. Turnitin provides instructors with the tools to engage students in the writing process, provide personalized feedback, and assess student progress over time. Turnitin&amp;apos;s applications are used by more than 30 million students at 15,000 institutions in 140 countries. Turnitin is headquartered in Oakland, Calif., with international offices in Newcastle, U.K., Utrecht, Netherlands, Seoul, South Korea and Melbourne, Australia.<br/><br/><strong>Job Description</strong><br/><br/><strong>What youll get from us:</strong><ul><li>A smart, fun, and casual environment where you can learn from and teach others.</li><li>Flexibility in technology and development practices.</li><li>A great mission -- youll get to build systems that help students around the world improve their writing.</li><li>Freedom to not only work on a small team focused on making great products, but also to contribute cross-functionally and through the entire development lifecycle to make that happen.</li><li>A great location in the Strip District, upstairs from Pamelas and Smallman Galley.</li></ul><strong>What we expect from you:</strong><ul><li>Enthusiasm for solving challenging problems.</li><li>At least three years of solid experience with developing HTTP APIs, preferably using dynamic languages (we use Python).</li><li>Solid experience understanding relational databases and writing SQL (we use PostgreSQL).</li><li>Experience leading a development team through a substantial feature and carrying it through to production, working with product, design, and QA folks to make it right.</li><li>Practical experience writing unit tests and integration (end-to-end) API tests.</li><li>Ability to collaborate in an agile process with a cross-functional team on both small and large scale changes.</li><li>Familiarity with distributed source control platforms (we use git and GitHub).</li><li>Ability to communicate with both sales and support to ensure our product is being used as intended, and to help brainstorm and implement solutions when our customers run into issues.</li></ul><strong>Above and beyond:</strong><ul><li>Real-world experience delivering APIs with Python and PostgreSQL, especially serving data to modern single-page applications built with React or Angular.</li><li>Working with Docker in development and production environments.</li><li>Experience with a modern service architecture, including service discovery, monitoring, caching, centralized logging, reliable background job processing, and failover.</li></ul></div>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-varsity-tutors-JV_IC1150505_KO0,17_KE18,32.htm?jl=2363977443", 
+        "industry": "Information Technology", 
+        "FinalURL": "", 
+        "datePosted": "2017-12-04", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/431872/varsity-tutors-squarelogo-1505399052566.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Seattle", 
+                "addressRegion": "WA", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Varsity Tutors"
+        }, 
+        "@type": "JobPosting", 
+        "description": "<strong>Overview of Position</strong><br/><br/>Varsity Tutors operates the leading live learning platform in the United States and is building a global on-demand expert network. Students can receive live 1:1 help online, on mobile, or in-person in over 1,000 subjects facilitated by 30,000 experts. Our mission and vision are to help people learn by seamlessly connecting experts and learners in any subject, anywhere, anytime.<br/><br/>We&#039;re a DevOps shop where we take great pride in the quality of our code, our processes, and our services. We have a complete CI/CD software lifecycle and an evolving services-oriented-architecture hosted in AWS. We operate in a highly collaborative environment with Product and Design to build experiences that matter to our customers. At Varsity Tutors, engineers do not just write code, they actively participate in the conversation on what and how to build the systems and solutions that matter to our customers. If you love your customers as much as we do, we&#039;d love to hear from you.<br/><br/>If your passion is building rock-solid services and APIs that are the heart of the user experience, and you want to work for one of the fastest growing companies in the technology space, we have a place for you!<br/><br/><strong>Qualifications</strong><ul><li>5+ years coding experience</li><li>3+ years experience with Ruby on Rails or similar web frameworks (e.g. Django)</li><li>3+ years experience with highly concurrent languages such as GoLang, Erlang or Scala</li><li>Experience with deployment systems (e.g. CodeShip, AWS CodeDeploy)</li><li>Familiarity with AWS Services (e.g. RDS, Kinesis, EC2, et cetera)</li><li>Familiarity with the Linux Operating System and command-line tools</li><li>Understanding of OO design, algorithms, and data structures</li><li>Aptitude to quickly learn new languages and technologies as necessary</li><li>Computer Science or related degree</li></ul><strong>Responsibilities</strong><ul><li>Write performant, maintainable code that is easy to read and well-documented</li><li>Write automated tests to thoroughly validate the correctness of your code</li><li>Deploy large-scale web applications</li><li>Have a focus on quality, and operate iteratively to get from good to better</li><li>Be a part of your team\u2019s on-call rotation; we all own our code end-to-end from development to deployment to operations</li><li>Come ready to learn from some of the best and brightest in the industry</li><li>Work independently and collaboratively in a dynamic and fast-moving team</li><li>Be effective in a team environment working with fellow engineers, product management, and design</li></ul>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-brightmind-meditation-JV_IC1146821_KO0,17_KE18,39.htm?jl=2535729409", 
+        "industry": "Information Technology", 
+        "FinalURL": "https://www.glassdoor.com/job-listing/easyApply_input.htm?jl=2535729409", 
+        "datePosted": "2017-11-08", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/1723459/brightmind-meditation-squarelogo-1505251334458.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Los Angeles", 
+                "addressRegion": "CA", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Brightmind Meditation"
+        }, 
+        "@type": "JobPosting", 
+        "description": "Are you fascinated by the craft of software and passionate about making the world a better place? Let\u2019s talk.<br/><br/>At Brightmind you\u2019ll help create the first digital meditation coach that creates custom guided meditations based on user interests and level of experience. The logic behind the automated coach is based on the teaching style of Shinzen Young, who is a world-renowned meditation teacher and mathematician. The team is small, collaborative, and energetic. Mindfulness is an exploding industry and this position will allow you to shape it. You\u2019ll also have the opportunity to explore mindfulness personally with world class teachers.<br/><br/><strong>What you\u2019ll be doing</strong><ul><li>Validating concepts by designing and prototyping lean POCs</li><li>Creating and maintaining a native iOS application using Swift</li><li>Consulting with the team on platform capabilities that can be leveraged in product design</li><li>Database and applications architecture design</li><li>Unit-testing code for robustness, including edge cases, usability, and general reliability</li><li>Automated testing and CI/CD pipelines</li><li>Help to replicate our iOS build for Android</li></ul><strong>What you\u2019ll bring</strong><ul><li>2-3 years experience with Swift, farmiliarity with Android</li></ul><ul><li>Strong CS fundamentals and knowledge of object-oriented programming and software design patterns such as AOP, MVC, MVVM, etc.</li><li>Knowledge of low-level C-based libraries is a plus</li><li>Knack for benchmarking and optimization</li><li>Comfort developing, maintaining, and optimizing RESTful APIs</li><li>Familiarity with the AWS/AMS ecosystem</li><li>Can provide solid recommendations around tech stack and best practices</li><li>Open and excited to learn emerging technologies</li></ul><strong>About us</strong><br/><br/>Brightmind is a startup at its best.<br/><br/>We expect everyone to act as an owner of the company and contribute ideas to our business strategy and any area of the business that interests them. The fact that our product will very clearly and directly decrease suffering and increase kindness only adds to the fervor.<br/><br/>We\u2019ve intentionally created an efficient collaborative culture. We structure our meetings enough to stay on track yet not so much to diminish creativity. Everyone feels confident enough to share even their crazy ideas but are also humble enough to move on without flinching. On a day-to-day basis, we\u2019re in charge of our own to do lists, but we also often ask each other for help when we don\u2019t know what to do next. Decision making is shared when that makes sense and delegated when that makes sense. We embrace an interdisciplinary approach where designers, developers, marketers, and the CEO contribute to brainstorming. We have a solid network of business, technical, content, marketing, and investment advisors."
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-boeing-JV_IC1136950_KO0,17_KE18,24.htm?jl=2579126588", 
+        "industry": "Aerospace & Defense", 
+        "FinalURL": "", 
+        "datePosted": "2017-12-03", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/102/boeing-squarelogo.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Oklahoma City", 
+                "addressRegion": "OK", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "BOEING"
+        }, 
+        "@type": "JobPosting", 
+        "description": "Oklahoma City,Oklahoma,United States<br/><strong>6J7BP2</strong><br/><br/>The Boeing Defense, Space &amp; Security (BDS) Bomber Aircraft Sustainment Programs is seeking a Software Engineer to support the Avionics Software product development activities throughout the aircraft modification lifecycle.<br/><br/>The Aircraft Platform Software Team is responsible for the software architecture and design modifications of the following system components:<ul><LI><DIV>Flight Management</DIV> </LI><LI><DIV>Navigation</DIV> </LI><LI><DIV>Test Modes, Monitoring and Reporting</DIV> </LI><LI><DIV>Mission Management</DIV> </LI><LI><DIV>Operator Controls and Displays</DIV> </LI><LI><DIV>Sensor Management</DIV> </LI><LI><DIV>Communication Systems</DIV> </LI><LI><DIV>Weapon Management</DIV> </LI></ul>Responsibilities for this position include working with an engineering team to develop software products through all phases (requirements, design, development, and integration/test).<br/><br/>Boeing is the world&#039;s largest aerospace company and leading manufacturer of commercial airplanes and defense, space and security systems. We are engineers and technicians. Skilled scientists and thinkers. Bold innovators and dreamers. Join us, and you can build something better for yourself, for our customers and for the world.<br/><br/><strong>Basic Requirements:</strong><br/><br/>This position requires the ability to obtain a US Security Clearance for which the US Government requires US Citizenship.<br/><br/><strong>Preferred Skills &amp; Experience:</strong><ul><LI><DIV>Secret clearance</DIV> </LI><LI><DIV>Rationale DOORs, Clearcase, and Clearquest</DIV> </LI><LI><DIV>Experience with the software estimating process</DIV> </LI><LI><DIV>Experience with export controls</DIV> </LI><LI><DIV>Minimum of 2+ years working on large complex development system/activities</DIV> </LI><LI><DIV>Technical leadership of complex Software Architectures</DIV> </LI><LI><DIV>Experience with DO-178B assurance levels and/or Agile Software methods</DIV> </LI><LI><DIV>Ada, C, C++, and C# and scripting programming languages</DIV> </LI><LI><DIV>Unix and Linux Operating Systems</DIV> </LI><LI><DIV>Experience with Real-Time POSIX Operating Systems (VxWorks, Integrity, etc.)</DIV></LI></ul><strong>Typical Education &amp; Experience:</strong><br/><br/>Bachelor&#039;s and 2 or more years&#039; experience or a Master&#039;s degree with experience. Bachelor, Master or Doctorate of Science degree from an accredited course of study, in engineering, computer science, mathematics, physics or chemistry. ABET is the preferred, although not required, accreditation standard.<br/><br/>Yes, 10 % of the Time<br/><strong>SSM</strong><br/>Individual Contributor<br/>No<br/>No<br/>Standard<br/>United States; The Boeing Company"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Senior Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/senior-software-engineer-imagine-learning-JV_IC1128289_KO0,24_KE25,41.htm?jl=2600706168", 
+        "industry": "Information Technology", 
+        "FinalURL": "http://imaginelearning.applytojob.com/apply/jobs/details/yVZM3j4DV7", 
+        "datePosted": "2017-11-30", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/393172/imagine-learning-squarelogo-1414103090809.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Salt Lake City", 
+                "addressRegion": "UT", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Imagine Learning"
+        }, 
+        "@type": "JobPosting", 
+        "description": "Imagine Learning is looking for a savvy Senior Software Engineer to help us design and implement the platform that enables cloud-based education for K-12. He/she will be able to coordinate and manage input from business and technology stakeholders across the enterprise and be responsible for the design and execution of large-scale technology initiatives.<br/><br/>The role is a self-organized Senior Software Engineer with solid C# .NET, .NET Core using Visual Studio and web service development experience. In this position, you are first and foremost a passionate and talented developer that can work in a dynamic environment as a member of Agile Scrum teams. Your strong technical, problem solving abilities, coding, testing and debugging skills are just a start. You must be dedicated to filling product backlog and delivering production-ready code in two-week sprints. You must be willing to go beyond the routine and be prepared to do a little bit of everything.<br/><br/><strong>Qualifications</strong><ul><li>Bachelor\u2019s degree in a technical field such as computer science, computer engineering or related field required</li><li>Typically requires 5+ years of experience in application services development for large scale systems</li><li>Experience with web services standards and related technologies (.NET, .NET Core, HTTP, XML, JSON, REST)</li><li>Experience programming in C#, Java, and also place high value on ability to be productive in wide range of environments and willingness to learn unfamiliar tools</li><li>Solid understanding of SQL</li><li>Experience with Azure and AWS Cloud platforms</li><li>Knowledge of database concepts, and data structures</li><li>Experience with Test-Driven Development and Continuous Deployment</li><li>Proven problem-solving skills and an ability to respond resourcefully to new demands, priorities and challenges</li><li>Excellent verbal, written and listening communication skills with an ability to develop relationships with key partners</li></ul>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-unity-technologies-JV_IC1139761_KO0,17_KE18,36.htm?jl=2591229614", 
+        "industry": "Information Technology", 
+        "FinalURL": "", 
+        "datePosted": "2017-11-20", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/455854/unity-technologies-squarelogo-1435914706545.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Austin", 
+                "addressRegion": "TX", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Unity Technologies"
+        }, 
+        "@type": "JobPosting", 
+        "description": "Join us in building and delivering the next-generation of tools &amp; services to developers using the Unity game engine! The Unity Austin team is responsible for the Unity build pipeline subsystems and related workflows, as well as the Unity Cloud Build service. As a Software Engineer, you will be working closely with the core engine, editor, and service teams in architecting new and improved subsystems, features, UI components, and APIs used by millions of developers around the world.<br/><br/><strong>What You Will be Doing</strong><ul><li>Collaborate in architecting and implementing Unity engine and editor features and improvements.</li><li>Implementing cloud service support features in the Unity engine.</li><li>Participating in the design of new services, specifically as it relates to subsystems that are appropriate for engine integration.</li></ul><strong>Skills &amp; Requirements</strong><br/><br/>Candidates are expected to have experience and capability in the following areas:<ul><li>BS in Computer Science or equivalent work experience</li><li>At least one year of hands-on programming experience using C++ and/or C#</li><li>Familiarity with web service languages and frameworks (Javascript, NodeJS, Ruby, etc.)</li><li>At least one year of work experience or internship with large scale software development</li></ul>Things we would like to see (but are not required):<ul><li>Experience with game engine development</li><li>Development experience with the Unity engine</li><li>Participation or interest in video game culture</li><li>Hobby projects that demonstrate aptitude in the core skill requirements</li></ul>We would prefer candidates who are located in or willing to relocate to the Austin, Texas area, but will consider an off-site arrangement for just the right person.<br/><br/><strong>Who are we?</strong><br/><br/>We are product-driven, curious, and creative. We aggressively reinvest in development to keep Unity moving and evolving - from expanding usability and power, to platform reach. With over a billion installs per month, Unity touches gamers and non-gamers alike. As well as video games, our software is used in industries as diverse as medicine, visualisation and shopping - democratizing game development while solving hard problems and enabling success for a huge range of developers worldwide.<br/><br/>Today, Unity has expanded to over 15 international offices and has employees in 23 countries. Every person at Unity Technologies has an inherent passion and driven spirit and it isnt enough to be able to do the job- were looking for people that color outside the lines, are looking to be freed from the process tangle, and can dream big!"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-zpower-JV_IC1146973_KO0,17_KE18,24.htm?jl=2571516507", 
+        "industry": "Retail", 
+        "FinalURL": "", 
+        "datePosted": "2017-11-23", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/285672/zpower-squarelogo-1497219869097.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Camarillo", 
+                "addressRegion": "CA", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "ZPower"
+        }, 
+        "@type": "JobPosting", 
+        "description": "Software Engineer<ul><li><strong>Position Title:</strong> Software Engineer</li><li><strong>Reports To:</strong></li><li><strong>Department:</strong></li><li><strong>Office Location:</strong> Camarillo, CA</li></ul>Looking for an exciting career in an industry where you can make a positive impact on people\u2019s lives? If you are a high achiever, exhilarated by a good challenge, thrive on new ideas, enthusiastic about life, get connected with ZPower!!! We are actively searching for a Software Engineer. This position will be responsible for design, development, testing and support of desktop, web, and mobile based applications.<br/><br/><strong>Job Responsibilities:</strong><ul><li>Work closely with the Software Development Team to design, develop, test, and implement software applications</li><li>Develop software using Agile methodologies</li><li>Debug existing applications</li><li>Document technical specifications</li><li>Work on multiple projects concurrently</li></ul><strong>Preferred skills &amp; qualifications:</strong><ul><li>B.S. in Computer Science or related degree.</li><li>Experience in .NET Application Development (C# preferred)</li><li>Experience with Object Oriented and Test Driven Development</li><li>Experience with GIT revision control and Microsoft Team Services</li><li>Knowledge of SQL, SQL Server, and Entity Framework</li><li>Knowledge of MVC and MVVM design patterns</li><li>Knowledge ASP.NET, jQuery, REST APIs, Web Services</li><li>1-3 years overall relevant experience</li></ul>Apply"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-mellanox-technologies-JV_IC1139761_KO0,17_KE18,39.htm?jl=2534315028", 
+        "industry": "Information Technology", 
+        "FinalURL": "https://careers-mellanox.icims.com/jobs/3949/software-engineer/job", 
+        "datePosted": "2017-12-05", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/13751/mellanox-squarelogo-1502839464553.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Austin", 
+                "addressRegion": "TX", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Mellanox Technologies"
+        }, 
+        "@type": "JobPosting", 
+        "description": "Mellanox Technologies is looking for outstanding Software Engineers to To work on cutting edge features in networking, Virtualization and Machine Learning domains.<br/><br/><strong>Responsibilities:</strong><ul><li><div>Implement exciting and complex features for the next generation of industry-leading Mellanox Network adaptors</div></li><li><div>Design/develop top performing network protocols</div></li><li><div>Work with the latest emerging technologies</div></li><li><div>Involved in full-lifecycle development methodology (design to final delivery to customer)</div></li><li><div>You get to work as part of a distributed and global team around the world</div> </li></ul><strong>Required:</strong><ul><li><div>Network protocols development experience</div></li><li><div>Advanced expertise in C/C++ development</div> </li><li><div>Experience with debugging using tools like GDB</div></li><li><div>Experience with virtualization technologies (KVM, OVS)</div></li><li><div>Good communication skills (written, verbal, presentation)</div></li></ul><strong>Preferred:</strong><ul><li><div>Projects/research dealing with Routing / Bridging protocols</div></li><li><div>Scripting languages like Bash or Python</div></li><li><div>Containers and orchestration experience</div></li><li><div>Familiar with RDMA</div></li><li><div>Big Data/ Machine learning frameworks: Hadoop, Spark, Tensor Flow, Cafe</div></li></ul><strong>Education:</strong><ul><li><div>Bachelor&#039;s degree or Master&#039;s degree - Prefer Comp Science, Comp Engg /Electrical Engg</div></li></ul>About Us<br/><br/>Mellanox Technologies was founded in 1999 and has headquarters in Sunnyvale, CA and Yokneam, Israel. We are a leading supplier of innovative end-to-end InfiniBand and Ethernet connectivity solutions and services for servers and storage. We offer market-leading solutions that include adapter cards, switches, cables and software to support InfiniBand and Ethernet networking technologies. Our products optimize data center performance and deliver industry-leading bandwidth and scalability. In addition, we serve a wide range of markets including high performance computing, enterprise, data centers, cloud computing, big data and Web 2.0. We are constantly reinventing ourselves to stay ahead of the market and bring game-changing products and services to the industry.<br/><br/>About You<br/><br/>Mellanox is an incubator for talent. We are a strong believer in developing our people and giving them the tools to succeed. We have a very competitive compensation package as well as frequent internal product training to keep people updated on new technologies. We are a fast growing company with a positive energy that comes from our team members&#039; internal drive to develop, market, sell and support cutting-edge products and services. Mellanox often promotes from within and there&#039;s a sense of family that comes from the top down. We are committed to the community and donate 1% of our annual profit to charity as well as participate in green initiatives to reduce our carbon footprint.<br/><br/><strong>Benefits</strong><br/><br/>Mellanox Technologies offers a competitive benefits program including medical, dental and vision insurance, 3-weeks\u2019 vacation, 10-paid holidays, sick leave, x2 annual salary Life Insurance/AD&amp;D, 401K with company contribution, ESPP, and Stock (RSUs). At Mellanox, the work of each individual makes an impact on the success of our company. If you are looking for a rewarding career, talented colleagues and a great environment where you can challenge yourself, grow and lead, Mellanox is the right place for you.<br/><br/>Equal Employment Opportunity<br/><br/>Mellanox is an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived race, color, national origin, ancestry, sex, gender, pregnancy, childbirth or related medical condition, religious creed, physical disability, mental disability, age, medical condition, marital status, sexual orientation, veteran status, genetic characteristics, gender identity/expression, or any other characteristics protected by federal, state or local law. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and all other terms and conditions of employment. If you need assistance to perform your job duties because of a physical or mental condition, please let our Human Resources department know."
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-werum-it-solutions-JV_IC1138945_KO0,17_KE18,36.htm?jl=2281187566", 
+        "industry": "Information Technology", 
+        "FinalURL": "https://jobs.koerber.de/cms/de/karriere/stellenmarkt/job-detailansicht/?jobDbId=596179&jobDbPVId=1814764&ref=320&page", 
+        "datePosted": "2017-12-01", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/263708/werum-it-solutions-squarelogo-1457430439162.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Cary", 
+                "addressRegion": "NC", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Werum IT Solutions"
+        }, 
+        "@type": "JobPosting", 
+        "description": "<div><div>Werum IT Solutions is the world\u2019s leading supplier of manufacturing execution systems (MES) and manufacturing IT solutions for the pharmaceutical and biopharmaceutical industries. Werum\u2019s PAS-X software product is run by more than half of the world\u2019s top 30 pharmaceutical and biotech companies as well as many mid-sized drug manufacturers. Founded in 1969, Werum is headquartered in L\u00fcneburg, Germany, and has locations in Europe, America, and Asia. Werum is part of the K\u00f6rber Group\u2019s Business Area Pharma Systems.<br/><br/>The Business Area Pharma Systems provides high quality solutions for the production, inspection and packaging of pharmaceutical products and units five internationally successful companies under one roof.<br/><br/>The K\u00f6rber Group is an international technology group with approx. 11,500 employees around the world. It comprises leading-edge technology companies and over 100 production, service, and sales entities and offers its customers solutions, products, and services in the Business Areas of Automation, Logistics Systems, Machine Tools, Pharma Systems, Tissue, Tobacco and Corporate Ventures.</div><br/>For our location in Cary we are looking for</div><br/><div>Software Engineer - Service Desk</div><br/><div><strong>Tasks:</strong><br/><div>We have an outstanding career opportunity for a Software Engineer looking to work for an industry leading Software Firm within the Pharmaceutical Industry. In order to expand we are seeking talented Software Engineers to join our U.S. team for a position in Cary, NC. Software Engineers provide key support after the deployment of Werum\u2019s MES solution PAS-X and work closely with Werum\u2019s Subject Matter Experts and respective Client IT to ascertain successful resolution of IT challenges in regulated environments. This is an excellent opportunity for a dynamic and motivated individual looking to gain firsthand engineering experience throughout the US. The ideal candidate should have a technical background, design and development experience with Java, debugging skills, must enjoy interaction with customers, have excellent communication skills and enjoy a fast paced work environment.<br/><br/><strong>Role Responsibilities:</strong><ul><li>Support PAS-X Service Desk with technical incident analysis and code review</li><li>Advise and train customers on Werum\u2019s PAS\u2010X MES software configuration and setup</li><li>Support customers during go-live of the PAS-X application</li><li>Coach and instruct Werum employees on technical PAS\u2010X product matters</li><li>Investigate client issues \u2013 troubleshooting (replicate/diagnose/document problems)</li><li>Install PAS-X MES software as required by projects</li><li>Support validation activities of PAS\u2010X MES software projects</li><li>Organize and teach IT workshops at customer sites</li><li>Understand functionality provided by Werum\u2019s PAS-X MES software for the purpose of deploying</li><li>it at client locations</li><li>Provide office based support for Werum\u2019s PAS-X Service Desk after 4-6 weeks of onboarding</li><li>program</li></ul></div></div><br/><div><strong>Qualifications:</strong><br/><div><ul><li>At least two years working as a Java Developer is required</li><li>A Bachelor\u2019s Degree in a science field or Computer Science is required; a Master\u2019s Degree is preferred</li></ul></div></div><br/><div><div><strong>Apply now</strong> <u>online</u> or send your application to:<br/><br/>Werum IT Solutions America Inc.<br/>Kathryn Van Lenten</div></div><br/>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-softheon-JV_IC1132431_KO0,17_KE18,26.htm?jl=2454133844", 
+        "industry": "Information Technology", 
+        "FinalURL": "https://softheon.workable.com/", 
+        "datePosted": "2017-11-28", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/30073/softheon-squarelogo-1508507430846.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Stony Brook", 
+                "addressRegion": "NY", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Softheon, Inc."
+        }, 
+        "@type": "JobPosting", 
+        "description": "<p><strong>Software Engineer \u2013 Stony Brook, NY</strong></p><p>Softheon is looking for several Software Engineers who can help in developing solid products to meet clients\u2019 needs and improve end-user experience using new technologies such as microservices, single-page web applications, RESTful web APIs, and cloud infrastructure. In this role you will be responsible for defining plans for standardizing, scaling, and enhancing our products and the services utilized to deploy, test, and release these products. This position is perfect for an individual who has the ability to study and analyze problematic programming to design solutions for desired output.</p><p><strong>UX/UI Focus Responsibilities (include but not limited to):</strong><br></p><ul><li>Develop and maintain existing user interfaces for web, native, and voice interaction.</li><li>Help design meaningful and responsive user experiences.</li><li>Stay abreast of emerging UI technologies.</li><li>Create and update tools for building, testing and delivering new UI platforms.</li></ul><p><strong>BPM Focus Responsibilities (include but not limited to):</strong></p><ul><li>Analyze current programs including performance, diagnosis, and trouble shooting of problem programs as designed innovative solutions to improve their efficiency</li><li>Develop libraries of verification routines that can be leveraged across multiple products</li><li>Develop highly scalable, multi-threaded, multi-tenant microservices that are capable of processing upwards of 1 million transactions.</li><li>Create robust automated test suites to allow for continuous integration</li></ul><p><strong>Database Focus Responsibilities (include but not limited to):</strong></p><ul><li>Optimize current database schema and procedures to reduce wait-times and increase performance</li><li>Develop processes for near-real time data retrieval for on-access reporting and live reporting dashboards.</li><li>Provide data retrieval tools to facilitate business and operations teams</li></ul><p><strong>Test Automation &amp; Release Focus Responsibilities (include but not limited to):</strong></p><ul><li>Exercise discipline in testing, writing technical documentation and automated tests</li><li>Develop detailed, comprehensive, and well-structured test cases and test plans</li><li>Discover and report problems using deductive reasoning and automation tools</li><li>Create and update tools for continuous integration</li></ul> <p><strong>Qualifications</strong></p><ul><li>Knowledge of UML, SDLC, XML, and object-oriented programming</li><li>Experience in C#, ASP.NET, Microsoft. .NET technologies</li><li>Knowledge of SQL Server</li><li>Familiarity with SCRUM Development Methodology and other agile development methodologies</li><li>Ability to manage simultaneous projects and meet deadlines</li><li>Ability to effectively communicate in written and verbal communication</li><li>Ability to work in a fast paced, team oriented, agile development environment</li><li>Must have a strong work ethic and commitment to constantly improving capacity to work effectively</li><li>Bachelor\u2019s degree in Computer Science with GPA of 3.5 or better</li></ul><p><strong>When you join Softheon, you will;</strong></p><ul><li>Have an opportunity to be part of a great team of professionals;</li><li>Learn and work in an environment surrounded by our SoftheonSmarts right here at the Center of Excellence in Wireless Info &amp; Technology (CEWIT) building at Stony Brook University, NY. CEWIT is an unparalleled resource, advancing the science and technology underlying the next epoch of the information revolution (www.cewit.org)</li><li>Receive competitive salary and career growth opportunities that includes health care, dental, vision, life insurance, flexible spending, 401k and tuition reimbursement benefits package.</li></ul><p><strong>ABOUT US:</strong></p><p>At Softheon we strive to create simple solutions to complex problems. Our innovative and easy-to-use products have revolutionized the way everyday people control their healthcare needs. Empowering the nation&#039;s first state health benefit exchange since 2008, Softheon&#039;s vision and strategic direction has designed five platforms to help our partners quickly adapt to industry standards, manage client data, and grow their membership, while never compromising the exceptional care they provide. In this highly dynamic industry, Softheon has maintained its position as a premier Business Process as a Service (BPaaS) and Software as a Service (SaaS) solution, utilized by 37% of healthcare payers and having been responsible for 12% of ACA enrollments processed. Our platform has been ranked #1 in addressing the industry\u2019s ever-changing regulatory demands and recognized by Gartner, IDC, AHIP, ACAP, and HCEG.</p><p>To find out more about Softheon please visit www.softheon.com.</p><p>To all recruitment agencies: Softheon does not accept agency resumes. Please do not forward resumes to Softheon employees or any other company location. Softheon is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.ve a signed agreement with the Company.</p>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-global-aerospace-manufacturer-JV_IC1132272_KO0,17_KE18,47.htm?jl=2598447165", 
+        "FinalURL": "https://www.glassdoor.com/job-listing/easyApply_input.htm?jl=2598447165", 
+        "datePosted": "2017-11-28", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Hauppauge", 
+                "addressRegion": "NY", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Global Aerospace Manufacturer"
+        }, 
+        "@type": "JobPosting", 
+        "description": "<strong>Position Summary:</strong><br/><br/>Dynamic career opportunity with global manufacturer seeks Software Engineer who will be responsible to create software programs for use within company products and assists other departments in the deployment of those products.<br/><br/>Designs, modifies, and implements embedded software applications.<br/><br/>Participates in the testing process through test review, code debugging, analysis and the development and execution of formal test procedures.<br/><br/><strong>Essential Functions:</strong><br/><br/>Specific responsibilities include, but are not limited to the following:<ul><li>Determines software designs of limited scope and complexity by analyzing software requirements, specifications, and performance issues using the appropriate programming languages and tools</li><li>Uses technical expertise to create high quality microprocessor based embedded software applications</li><li>Tests and debugs software by applying debugging tools and ensuring that the code meets the coding standards and satisfy all requirements. Determines testing methods. Documents all testing methods, results, and performance benchmarks.</li><li>Generates support documentation for all work.</li></ul><strong>Qualifications:</strong><ul><li>BS Computer Science, MS Computer Science or BS Computer Engineering</li><li>1-3 years of experience with software programming using C/C++ languages</li><li>Communication skills sufficient to present technical information to customers and internal staff members.</li><li>Experience in Microprocessor based embedded software development a plus</li><li>Experience in the Aerospace industry a plus</li></ul>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-casa-systems-JV_IC1154518_KO0,17_KE18,30.htm?jl=2321125264", 
+        "industry": "Telecommunications", 
+        "FinalURL": "https://casasystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.dspjob&jobid=289&company_id=17028&version=1&jobBoardId=3337", 
+        "datePosted": "2017-12-01", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/718936/casa-systems-squarelogo-1445423552906.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Andover", 
+                "addressRegion": "MA", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Casa Systems Inc"
+        }, 
+        "@type": "JobPosting", 
+        "description": "Casa Systems, Inc., is a leading provider of next-generation ultra-broadband distributed and virtualized architectures in mobile, fixed telecom and cable networks. As the original supplier of commercially deployed CCAP systems that deliver voice, video, and data over a single port, Casa continues a tradition that brings leading edge solutions to hundreds of service providers around the world.<br/><br/><strong>Internships/Entry Level Opportunity</strong><br/><br/>Candidates for this position are software engineering students who want real-world development experience on products being delivered to our customers. You will be involved in the enhancement and development of embedded software for one or more projects involving Ultra Broadband Network Edge Devices (fixed, mobile, optical and wi-fi solutions). You will be part of a small (1-6 person), multi-disciplinary team that has full responsibility for product development from requirements gathering to final product delivery.<br/><br/>You may be involved in all areas of development (i.e. requirements analysis, high and low level design, coding, documentation, and testing and validation). Our products are developed to very high standards of quality and reliability and you will have the opportunity to learn the department&#039;s software process during all development activities.<br/><br/>You will present status of your progress to other team members and to management. You may also have the opportunity to interact with our customers.<br/><br/><strong>QUALIFICATIONS:</strong><ul><li><strong>Must have a valid work authorization (EAD).</strong></li><li>Passionate about developing embedded software.</li><li>Currently enrolled in an accredited university pursuing a bachelor\u2019s or master\u2019s degree in Computer Science, Computer Engineering, Electrical Engineering, or a related major such as Math, Physics OR recent graduate.</li><li>GPA 3.0 or higher.</li><li>Solid understanding of computer science fundamentals and software engineering with an aptitude for learning new technologies.</li> <li>Strong knowledge of programming and scripting languages.</li><li>Possess creative problem solving skills and excellent troubleshooting/debugging skills.</li><li>Excellent verbal and written communication skills.</li><li>Experience in establishing and sustaining excellent relationships with the extended team.</li></ul><strong>Required Skills</strong><br/><br/><strong>Required Experience</strong><br/><br/>Job Location<br/>Andover, MA"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-bw-papersystems-JV_IC1133197_KO0,17_KE18,33.htm?jl=2557716499", 
+        "industry": "Manufacturing", 
+        "FinalURL": "https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWCareers/job/Phillips-WI/Software-Engineer--BW-Papersystems-_R000673", 
+        "datePosted": "2017-11-07", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/1525305/bw-papersystems-squarelogo-1505821012051.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Phillips", 
+                "addressRegion": "WI", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "BW Papersystems"
+        }, 
+        "@type": "JobPosting", 
+        "description": "Responsible for the design, development, testing, installation, and field support of PC based hardware and software for industrial equipment in an industrial environment. The applicant should be familiar with standard concepts, practices, and procedures within software engineering. Rely on experience and judgment to plan and accomplish goals. Perform a variety of tasks. Work in a team environment under general supervision with an intensive safety culture; typically report to an engineering leader or supervisor. A certain degree of creativity and independence is also expected.<br/><br/><u>A software engineer will:</u><ul><li>Develop and maintain the programs and codes for the operation of the company\u2019s machines</li><li>Help develop engineering and functional system specifications with input from sales personnel, customers, service technicians, assembly technicians.</li><li>Develop, prepare, and maintain comprehensive program documentation in areas related to diagnostics, information systems, data collection and communication with other peripheral equipment.</li><li>Apply ingenuity in programming, hardware/software integration, and system diagnostics to support machine based control systems.</li><li>Keep current on latest developments concerning system architectures that could be implemented as parts of machine control systems.</li><li>Act as a liaison to production assembly, service, and system suppliers to furnish information and documentation. As required, assist in the check-out, machine installation, and startup of mechanical functionality and control system software.</li><li>Interface directly with customers to identify customer expectations and specifications. Will also be part of a team to analyze control system malfunctions.</li><li>Work in an industrial environment with an intensive safety culture.</li><li>Domestic and international travel is required, up to 25% per year.<br/><br/><u>Knowledge &amp; Skills required for this position:</u></li><li>Knowledge or experience in Microsoft technologies like C#, VB.NET, MS SQL Server and to a lesser extent C and Assembly language for supporting legacy equipment.</li><li>Knowledge or experience in Entity Framework, Model View Controller (MVC) design, JavaScript, ASP.NET and to a lesser extent HTTPS, SSL, RSA keys and networking for new project development.</li><li>Excellent communication and customer service skills.</li><strong><li>Electrical blueprint reading.<br/><br/><u>Work Experience:</u></li></strong><li>One to five years of experience in the computer/software engineering field in a manufacturing environment is preferred, but not required.<br/><br/><u>Education:</u></li><li>Bachelor\u2019s degree in computer science/software engineering or equivalent experience.<br/><br/>The ideal candidate will be highly self-motivated, persuasive, intelligent and well educated. The individual\u2019s personal style will need to be suited to a culture which is team based, entrepreneurial, fast paced, value-driven with high corporate standards. The individual will need to be very comfortable working in a lean, matrixed, highly customer focused organization with strong ethical standards.<br/><br/>BW Papersystems, part of Barry-Wehmiller, combines extremely strong brands, innovative technologies and long-standing global experience in the corrugating and finishing, sheeting and packaging, and stationery, book-binding and security-documents industries. BW Papersystems brings together nine brands\u2014BW Bielomatik (BWB), Curioni, JAG SYNCHRO, Kugler-Womako, MarquipWardUnited (MWU), SHM, VortX, WillPemcoBielomatik (WPB) and Wrapmatic\u2014that synthesize manufacturing in the paper process industries. We offer market-leading technology for full corrugators in a variety of configurations, rugged rotary die cutters and flexo folder gluers, as well as starch-mixing systems. Customers rely on us for folio-size, cut-size and digital-size sheeting and packaging of paper, board and other materials. In addition, BW Papersystems\u2019 portfolio includes stationery, passport production and specialized paper-converting applications, as well as book-on-demand binding lines, digital print finishing and RFID processing technology. For more, go to www.bwpapersystems.com.<br/><br/>Barry-Wehmiller is a diversified global supplier of engineering consulting and manufacturing technology for the packaging, corrugating, sheeting and paper-converting industries. By blending people-centric leadership with disciplined operational strategies and purpose-driven growth, Barry-Wehmiller has become a $2-plus billion organization with more than 11,000 team members united by a common belief: to use the power of business to build a better world. For more information, go to www.barrywehmiller.com and visit our CEO Bob Chapman\u2019s blog at www.trulyhumanleadership.com.</li></ul>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-in-depth-engineering-JV_IC1127128_KO0,17_KE18,38.htm?jl=2597695694", 
+        "image": "https://media.glassdoor.com/sqll/1059725/in-depth-engineering-squarelogo-1512017780770.png", 
+        "FinalURL": "https://www.glassdoor.com/job-listing/easyApply_input.htm?jl=2597695694", 
+        "datePosted": "2017-11-27", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Moorestown", 
+                "addressRegion": "NJ", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "In-Depth Engineering"
+        }, 
+        "@type": "JobPosting", 
+        "description": "In-Depth Engineering is immediately seeking several Software Engineers to join our Combat System Engineering Agent (CSEA) Aegis program.<br/><br/>All openings are full-time, permanent positions located in Moorestown, New Jersey.<br/><br/>Qualified applicants must be a US citizen in order to gain eligibility for a clearance through the Department of Defense.<br/><br/><strong>Duties</strong><ul><li>Analyzing and engineering software solutions</li><li>Using agile processes to promote sustainable software development</li><li>Regular involvement with C++, JAVA, and MATLAB</li><li>Interfacing with display systems</li></ul><strong>Desired Skills</strong><ul><li>Aegis Combat System experience</li><li>Active DoD clearance</li></ul>In-Depth Engineering provides a competitive package of salary and benefits, including medical, dental, and vision coverage, a Safe Harbor 401(k) program, generous Paid Time Off (PTO), STD, LTD, life insurance, and tuition assistance for higher education. Prospective employees will receive consideration without discrimination because of race, creed, color, sex, age, national origin, or handicap. We are an Equal Opportunity Employer."
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-mckesson-JV_IC1140006_KO0,17_KE18,26.htm?jl=2569368069", 
+        "industry": "Health Care", 
+        "FinalURL": "https://mckesson.taleo.net/careersection/ex/jobdetail.ftl?job=17007960", 
+        "datePosted": "2017-11-21", 
+        "employmentType": "", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/434/mckesson-squarelogo.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Irving", 
+                "addressRegion": "TX", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "McKesson"
+        }, 
+        "@type": "JobPosting", 
+        "description": "McKesson is in the business of better health and we touch the lives of patients in virtually every aspect of healthcare. It starts with the chain of events you initiate when you work with McKesson Pharmaceutical - a chain that extends across the country and results in millions of people getting more from their healthcare.<br/><br/>As the leader in pharmaceutical distribution and supply chain management, McKesson Pharmaceutical delivers vital branded and generic pharmaceuticals, as well as over-the-counter products, to more than 40,000 customers in three primary segments: retail chains, independent retail pharmacies and institutional providers such as hospitals, health systems, integrated delivery networks and long-term care providers.<br/><br/>We base our distribution excellence on electronic order processing, asset management tools, a commitment to Six Sigma methodology, order accuracy and supply chain safety. We work with our customers on solutions - including supply management technology, world-class marketing programs, managed care and repackaging products and services - that help them meet their business and quality goals. Our entire team works to ensure patients receive their medications efficiently and begin the process of healing.<br/><br/>As the nation\u2019s largest pharmaceutical distributor, US Pharmaceutical is committed to driving total pharmacy health for customers and ensuring that customers receive the right drug at the right time, every time. This commitment is underpinned by McKesson\u2019s focus on providing customers with the industry\u2019s highest product availability, intelligent ordering capabilities and unmatched service accuracy.<br/><br/>Join our team of leaders to begin a rewarding career.<br/><div><strong>Current Need</strong></div><br/><div>We are seeking an experienced <strong>Software Engineer</strong> who will be responsible for the analysis, design, programming, debugging and modification of local, network or internet-related computer programs for internal or end user applications. Writes code, completes programming and performs testing and debugging of applications using current programming language and technologies. Completes documentation and procedures for installation and maintenance. May interface with users to define system requirements and/or necessary modifications. (75>)</div><br/><div>Responsible for production and infrastructure support. Supports 3rd party applications. Troubleshoots issues with Linux and Oracle that affect Java applications. Performs tier-1 production (24x7) support in a rotation. (25&#034;).</div> <br/><div>The candidate must be flexible and results oriented, have the ability to work in a geographically dispersed team environment; must be able to quickly learn new technologies; and must be able to read existing code and learn systems with minimal documentation.</div><br/><div><strong>Position Description</strong> </div><br/><div><strong>Responsibilities</strong></div><ul><li>Reviews and challenges functional requirements</li> <li>Develops and implements technical requirements</li> <li>Quickly acquire and leverage business domain knowledge to bring clarity to business and system requirements. Applies specialized knowledge in a broad spectrum of technology areas including technology trends, current industry standards, new products and the latest solution development techniques</li> <li>Must be willing to incubate new ideas and technologies by writing prototypes and developing patterns.</li> <li>Participates and challenges impact analysis, work breakdown, and estimation based on business requirements</li> <li>May participate in decision matrices and buy vs. build analyses</li><strong><li>Documents system architecture:</li></strong><ul><li>Implementation/Component model</li> <li>Deployment model</li> <li>Interface specifications</li> <li>System flow diagrams</li> <li>Namespace/Package structure</li> </ul><li>May write design documentation</li> <li>May write code or work with engineers to model patterns</li></ul><div><strong>Additionally, to be successful in the role, the candidate must possess the following:</strong></div><ul><li>Self-motivated</li> <li>Lifelong learner</li> <li>Goal driven</li> <li>Strong continuous improvement track record</li> <li>Strong planning and organizational skills</li> <li>Strong verbal and written communication skills including presentation skills</li> <li>Strong conflict resolution and negotiation skills</li> <li>Strong ownership of problems and teams</li> <li>Technology and product evangelist</li> <li>Works well in a cross-functional environment and build strong relationships</li> <li>Relies on experience and judgment to plan and accomplish goals</li> <li>Values teamwork and open to new ideas</li> <li>Ability to be creative in a technical environment</li></ul><div>M<strong>inimum Requirements</strong> </div><br/><div>6 years experience in programming on enterprise or department servers or systems</div><br/><div></div><br/><div><strong>Critical Skills</strong></div> <ul><li>3 years experience in Java</li> <li>Object-Oriented analysis and design</li> <li>Client-server and n-tier concepts</li> <li>Knowledge and application of a variety of design patterns</li> <li>Experience in full life cycle system development including: design, building, testing, deployment, upgrade and support</li><li>Experience using tools such as Mercurial, Subversion, CVS, GIT or Maven</li> </ul><div><strong><br/>Additional Knowledge &amp; Skills</strong> </div><ul><li>Database architecture, design, development, and optimization using Oracle</li> <li>Knowledgeable about performance tuning, scalability and redundancy concepts</li> <li>Experience using Google Web Toolkit (GWT)</li> <li>Java Application Server administration experience (e.g. JBOSS)</li> <li>Knowledgeable about application integration technologies including messaging and web services</li><li>Knowledgeable about containers, Docker, or Kubernetes is a plus</li></ul><div><strong>Current Technology Stack</strong></div><ul><li>Front End: GWT</li><li>Back End: Java</li><li>Framework: CDI, EJB</li><li>Source Control: Mercurial</li><li>Build Process: Hudson</li><li>SCRUM: JIRA</li><li>Project Management: Maven</li></ul><div><strong>Education</strong> </div><br/><div> 4-year degree in computer science or related field or equivalent experience</div><br/><strong>Physical Requirements</strong><br/>General Office Demands<br/><br/><strong>Benefits &amp; Company Statement</strong><br/>McKesson believes superior performance \u2013 individual and team \u2013 that helps us drive innovations and solutions to promote better health should be recognized and rewarded. We provide a competitive compensation program to attract, retain and motivate a high-performance workforce, and it\u2019s flexible enough to meet the different needs of our diverse employee population.<br/><br/>We are in the business of better health and we touch the lives of patients in virtually every aspect of healthcare. We partner with payers, hospitals, physician offices, pharmacies, pharmaceutical companies and others across the spectrum of care to build healthier organizations that deliver better care to patients in every setting.<br/><br/>But we can\u2019t do it without you. Every single McKesson employee contributes to our mission\u2014whatever your title, whatever your role, you act as a catalyst in a chain of events that helps millions of people all over the globe. Talented, compassionate people are the future of our company\u2014and of healthcare. At McKesson, you\u2019ll collaborate on the products and solutions that help us carry out our mission to improve lives and advance healthcare. Working here is your opportunity to shape an industry that\u2019s vital to us all.<br/><br/>McKesson is an equal opportunity and affirmative action employer \u2013 minorities/females/veterans/persons with disabilities.<br/><br/>Qualified applicants will not be disqualified from consideration for employment based upon criminal history.<br/><br/><strong>Agency Statement</strong><br/>No agencies please."
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-spok-JV_IC1142521_KO0,17_KE18,22.htm?jl=2540002092", 
+        "industry": "Information Technology", 
+        "FinalURL": "https://app.jobvite.com/admin/info/404.html", 
+        "datePosted": "2017-11-13", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/895842/spok-squarelogo-1413485497124.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Eden Prairie", 
+                "addressRegion": "MN", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Spok"
+        }, 
+        "@type": "JobPosting", 
+        "description": "<div><div>Spok is proud to be the global leader in critical communications for healthcare, government, public safety, and other industries. We deliver smart, reliable solutions to help protect the health, well-being, and safety of people around the globe. Our customers send over 100 million messages each month through their Spok\u00ae solutions, and they rely on Spok for workflow improvement, secure texting, paging services, contact center optimization, and public safety response. When communications matter, Spok delivers.<br/><br/><strong>Summary:</strong><br/><br/>Spok is looking for a highly skilled software engineer to provide technical leadership on its critical communication software suite. Spok is on the forefront of secure, critical communications using a wide variety of mobile devices to meet the needs of doctors, nurses, and health care facilities. Using the latest technologies and architectural designs, this individual will implement changes on a variety of projects in a highly collaborative, fast-paced environment \u2013 designing innovative solutions to real market problems, working closely with product management, development, and QA to further develop and maintain Spok\u2019s current product offerings and improve existing ones.<br/><br/>This role will include multiple areas of software design and implementation within the development organization. With this comes an expectation that the individual will be functioning across numerous products, projects, and office boundaries \u2013 providing software changes for enterprise level applications. This individual must have the ability to drive to pragmatic solutions to complex problems taking short-term and long-term goals into consideration. Spok\u2019s Software Engineer will be responsible for ensuring Spok develops durable products that enable Spok\u2019s high-growth business strategies.<br/><br/><strong>Qualifications:</strong><ul><li>Bachelor degree in computer science or related technical discipline</li><li>5+ years of equivalent work experience with:<ul><li>C, C++,</li> <li>C#.NET, Java</li><li>Java script, frameworks used such as Hibernate</li> <li>MS SQL and Oracle database Stored Procedures</li> <li>Knowledge of telephony board, ie. Dialogic, AudioCodes</li> <li>Work with Installers such as MSI</li><li>Working knowledge of Linux and WebLogic</li><li>Excellent analytical and problem solving skills</li><li>Willing to identify, own, and solve problems independently and as part of a team</li></ul></li></ul><strong>Preferred but not required:</strong><ul><li>Working knowledge of SIP technology</li><li>Working knowledge of Eclipse</li><li>Working knowledge of Paging Protocols, such as MXPP, WCTP, TAP, etc</li><li>Agile Methodology and agile tools such as Rally or Jira</li></ul></div></div>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-keyw-JV_IC1130374_KO0,17_KE18,22.htm?jl=2548607136", 
+        "industry": "Aerospace & Defense", 
+        "FinalURL": "https://external-keywcorp.icims.com/jobs/17059/software-engineer/job", 
+        "datePosted": "2017-11-24", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/354608/keyw-squarelogo-1479577488276.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Herndon", 
+                "addressRegion": "VA", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "KeyW"
+        }, 
+        "@type": "JobPosting", 
+        "description": "KeyW is looking for a skilled JAVA developer to create applications within a proprietary framework that is based on standard web technology. The ideal candidate will have an understanding of XML, Java Server Pages (JSP), Java Script (JS), the Eclipse integrated development environment (IDE), web archive files, Tomcat, and Linux.<br/><br/><strong>PRIMARY DUTIES AND RESPONSIBILITIES:</strong><ul><li>Develop &amp; support solutions in unique and innovative ways, staying abreast of the latest advances in the following areas</li><li>Web-based and Mobile-based applications</li><li>Restful API</li><li>E-commerce solutions</li><li>Complex integration with distributed systems</li><li>Integration to AWS services * Participate in the entire application lifecycle: requirements analysis &amp; definition, system design, implementation, testing, deployment, and sustainment.</li><li>Support existing production system by participating in incident management process as application support specialist.</li><li>Review and assess existing enterprise applications, to support new features, performance improvements, upgrades, and ongoing sustainment.</li><li>Debug &amp; troubleshoot existing code base and recommend/implement fixes as required.</li><li>Participate in benchmark, performance, load, and stress testing, and remediation of issues identified</li><li>Participate in activities that ensure the successful use of these systems including: developing documentation, test scripts, and training materials.</li><li>Assure availability and scalability of web/e-commerce sites.</li></ul><strong>Required Skills:</strong><br/><br/>Software Developer \u2013 Java Developer<ul><li>Level 2,3,4,5 / Domain Knowledge / Clearance</li></ul>Large scale software development experience<ul><li>Develop/modify/troubleshoot JAVA code</li><li>COTS Integration</li><li>Agile development experience</li><li>Clearquest / Clearcase</li><li>DOJO</li><li>Oracle Weblogic</li><li>Tomcat</li><li>Application Server or comparable app server</li><li>Oracle</li><li>ANT</li><li>Crystal Reports</li><li>CSS</li><li>Java Server faces or AJAX</li><li>UNIX/LINUX OS</li><li>PL/SQL query development,</li><li>HTML</li><li>Selenium</li><li>JavaScript</li><li>EJB</li><li>SQL</li><li>Webservices</li><li>XML</li><li>UML</li><li>Deployment architectures \u2013 Conductor, Jenkins, CMDB, Storm, Kafka, Zookeeper, Consul, CHEF</li><li>Amazon Web Services</li></ul><strong>Location:</strong> Springfield, VA<br/><br/><strong>Clearance:</strong> Positions require a Top Secret/SCI security clearance, based on current background investigation (SBI)<em>.</em> Clearance processing will be completed by the U.S. Government.<br/><br/>KeyW is an EEO employer. We are committed to providing fair and equal employment consideration, regardless of race, color, religion, national origin, gender, sexual orientation, age, marital status or disability.<br/><br/>Apply!"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-market-traders-institute-JV_IC1154247_KO0,17_KE18,42.htm?jl=2577419823", 
+        "industry": "Education", 
+        "FinalURL": "https://markettraders.hrmdirect.com/employment/view.php?req=649827&jbsrc=1030", 
+        "datePosted": "2017-12-01", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/254915/market-traders-institute-squarelogo-1497030884010.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Orlando", 
+                "addressRegion": "FL", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Market Traders Institute, Inc."
+        }, 
+        "@type": "JobPosting", 
+        "description": "<strong>About:</strong><br/><br/>Often referred to as MTI, Market Traders Institute Inc. is an industry leader in trading technology and investor education based in Orlando, Florida. We help investors make better, faster, and smarter trading decisions by using our proprietary strategies and trading technology. MTI has been recognized as an INC. 5000 (2015 &amp; 2016) fastest growing companies in America, and has also received several awards for the being a \u201cBest Place to Work\u201d in Central Florida.<br/><br/>Employees enjoy a fast-paced, business casual environment while working with one of the most innovative and stable companies in the industry. As a team member, you will share your skills in a creative, collaborative and empowering environment. While refining your skills, you will work seamlessly with customers and team members in an internationally-known organization. This 20+ year family-owned company is dedicated to providing growth opportunities for those who work hard at enhancing our culture.<br/><br/><strong>Position Summary:</strong><br/><br/>We are looking for a Sr. Software Engineer to assist in laying the groundwork for development framework, direction, architectural solutions, and technical leadership for the development team. The Sr. Software Engineer will be responsible for the design and development of software products and will support our existing infrastructure while recommending ongoing improvements. This position will also be responsible for the engineering lifecycle from design to release of the system and will work closely with other team members to deliver significant results. This position will need to be a hands on, 60-80% developing.<br/><br/><strong>Primary responsibilities:</strong><ul> <li>Participating in requirements gathering, architectural design discussions, and reviewing and/or co-authoring technical design specifications</li><li>Required to develop 60-80% of the time.</li><li>Implementation of best practices coding standards</li><li>Defining and carrying out necessary tests i.e. unit, integration, performance</li><li>Performing and participating in design and code reviews</li><li>Developing and maintaining necessary documentation</li><li>Participating in production deployments</li><li>Maintenance and support of live products</li><li>Communicating with internal and external clients</li><li>Contributing to software development life-cycle improvements and product quality</li><li>Technical leadership on integrating assets across the web portfolio</li><li>Mentoring other software developers</li><li>Other duties as assigned</li></ul><strong>Required Qualifications</strong><ul> <li>Bachelor&#039;s degree in Computer Science or equivalent experience</li><li>5+ years\u2019 experience in software development in Java, PHP, .Net</li><li>Oracle experience is a Plus</li><li>Must have experience working with AWS</li><li>Must be a good communicator</li><li>Proven experience with normalized database design and development using MySQL or other SQL/NoSQL based server.</li><li>Full-stack development understanding</li><li>Experience with scalable web site architectural design patterns</li><li>Working knowledge of agile software development life-cycle</li><li>Experience with version control systems (Github)</li><li>Ability and drive to learn new technologies</li><li>Good communication and problem-solving skills</li><li>Experience with 3rd Party API Integration</li><li>Experience with Angular or Go and CRM application like Salesforce is a plus</li><li>Experience with HTML5, Mobile Device Development</li><li>Experience with Quality Assurance and testing of web applications or software</li></ul><strong>Physical Demands</strong><br/><br/>Physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Work requires moderate physical effort and use of motor skills requiring manual dexterity. While performing duties of this job, employee will regularly stand, walk, stoop, kneel and crouch. Employee may lift, lower, push, pull or carry product up to a maximum of 25 pounds by hand. Require physical effort associated with using the personal computer to enter information. Must be able to read and hear verbal instructions in English.<br/><br/><strong>#CB</strong><br/><br/><strong>#DCE</strong>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-autodesk-JV_IC1147401_KO0,17_KE18,26.htm?jl=2598798384", 
+        "industry": "Information Technology", 
+        "FinalURL": "https://autodesk.taleo.net/careersection/adsk_gen/jobdetail.ftl?job=17000000B3", 
+        "datePosted": "2017-11-28", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/1155/autodesk-squarelogo.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "San Francisco", 
+                "addressRegion": "CA", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "Autodesk"
+        }, 
+        "@type": "JobPosting", 
+        "description": "<strong>Employer<br/>Name:</strong> Autodesk, Inc.<br/><br/><strong>Position:</strong> Software Engineer<br/><br/><strong>Job Site:</strong> The<br/>Landmark @ One Market Street, Ste. 500, San Francisco, California 94105, United<br/>States<br/><br/><strong>Job Duties:</strong><br/><br/>Develop, create, and<br/>modify general computer applications software or specialized utility programs.<br/>Analyze user needs and develop software solutions. Develop high quality, stable<br/>code for use in products and solutions for customers. Ensure new code conforms<br/>to established coding standards and meets the feature specification. Document<br/>new code and features developed, including changes to existing code. Validate<br/>and sufficiently explain features for QA to finalize test cases and Tech Pubs<br/>to create user documentation. Participate in peer code reviews to ensure proper<br/>documentation on features and interoperability within the entire system.<br/>Maintain, troubleshoot and debug code, as required. Test newly developed<br/>features to ensure proper functioning prior to release to QA. Participate in<br/>developing test plans, including regression tests, for newly developed software<br/>or feature. Write and maintain the code so that it can be tested using<br/>automatic methods. Ensure new code, feature or software product meets<br/>performance goals and does not adversely impact the performance of existing subsystems.<br/>Work with Product Management/Product Design/QA to understand and help refine<br/>functional requirements for new products or upgrades. Develop industry specific<br/>documents and diagrams to outline architecture and relationships between<br/>subsystems and participates in review of those designs. Research and analyze existing legacy<br/>architecture and software code to understand the code at both the low-level and<br/>higher architectural level for making enhancements or resolving defects and<br/>performance issues. Participate in planning and design review meetings with<br/>technical leads and project managers to determine schedules, review technical<br/>problems, and assign tasks and resources. Track progress with respect to plan,<br/>inform Project Manager of delays and supply new estimates of completion as<br/>needed. Resolve existing feature defects logged by customers or QA and document<br/>all changes made. Utilize graduate-level research and analytical skills. May<br/>telecommute.<br/><br/><strong>Minimum Requirements:</strong> Master\u2019s degree in Computer Science,<br/>Engineering, or related field and 1 year of experience in the job offered or in<br/>a software development/engineering-related occupation. May telecommute.<br/><br/><strong>Special Requirements:</strong><br/><br/>Position requires at least one academic term<br/>of graduate-level coursework or internship in the following skills:<br/><br/><strong>1) </strong><br/><br/>Design and develop web<br/>applications using programming languages such as JavaScript;<br/><br/><strong>2) </strong><br/><br/>Design both relational<br/>and non-relational data models and database schemas;<br/><br/><strong>3) </strong><br/><br/>Develop web<br/>applications using Java, MySQL, &amp; the Play frameworks;<br/><br/><strong>4) </strong><br/><br/>Understand &amp;<br/>analyze business requirements and translate them into software requirements;<br/><br/><strong>5) </strong><br/><br/>Design and develop<br/>interactive user interfaces using HTML, CSS, &amp; JavaScript;<br/><br/><strong>6) </strong><br/><br/>Design &amp; develop<br/>front-end components for the Adobe Experience Manager platform using frameworks<br/>such as ExtJS and Angular JS;<br/><br/><strong>7) </strong><br/><br/>Design &amp; develop<br/>OSGI based back-end web services for the Adobe Experience Manager platform<br/>using Java Servlets, Apache Sling, and the Java Content Repository; and<br/><br/><strong>8) </strong><br/><br/>Utilize systematic<br/>approaches to software design, project management, implementation,<br/>documentation, and maintenance.<br/><br/>Proof of authorization to work in U.S. is required if hired. The<br/>company is an Equal Opportunity Employer and fully supports affirmative action<br/>practices."
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-jm-family-enterprises-JV_IC1166111_KO0,17_KE18,39.htm?jl=2384643396", 
+        "industry": "Retail", 
+        "FinalURL": "https://re13.ultipro.com/jmf1000/JobBoard/JobDetails.aspx?__ID=*2A41164D27CC057F", 
+        "datePosted": "2017-11-20", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/2850/jm-family-enterprises-squarelogo-1474467436823.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Deerfield Beach", 
+                "addressRegion": "FL", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "JM Family Enterprises"
+        }, 
+        "@type": "JobPosting", 
+        "description": "<div></div><div> Requisition Number 17-0216 </div><div> Post Date 3/27/2017 </div><div> Title Software Engineer </div><div> Location FL - Deerfield Beach </div><div> Alternate Location JM Family Enterprises, Inc. </div><div> Description <p>Proven developer / technologist in IT with experience in design / delivering technical solutions with a focus on distributed / cloud technologies. Must be able to design and develop internal solutions as well as assist / drive vendors on delivering solutions.</p><p><strong>Essential Functions:</strong> </p><ul><li>Leads the detailed design of multiple technologies under the guidance of delivery architect</li><li>Produces design and development of software solutions based upon requirements, high level design, guiding principles and patterns</li><li>Design and development of new systems with an emphasis on minimized maintenance requirements, as well as maintenance and enhancement of existing systems</li><li>Oversee and direct technical staff activities (design to implementation / warranty)</li><li>Evaluates business requirements and high level designs for delivering proper solutions</li><li>Systems analysis design and debugging of new systems / integrations </li><li>Escalation issues / options / risks / awareness and facilitates technical sessions / issue resolution</li><li>Skilled with knowledge transfers / handoffs (e.g., support transition / knowledge)</li><li>Ability to support / troubleshoot complex integrations and data </li><li>Ability to program for support activities / small enhancements and support of project</li><li>Proactively learn and utilize new technologies, concepts and procedures as appropriate to project requirements</li><li>Ability to work with geographically dispersed teams </li></ul><p><strong>Other Functions: </strong></p><ul><li>Responsible for implementation of systems </li><li>Business Analyst interfacing for the purpose of design and implementation of new systems and troubleshooting problems with existing systems. End-user interaction as needed</li><li>Assisting with reviewing the plans and monitoring the execution of testing </li><li>Reviews technical designs from vendors for JM solutions / systems </li></ul> </div><div> Requirements <ul><li>Development - advanced knowledge in multiple of the following: <ul><li>Microsoft .NET C# and key frameworks </li><li>Microsoft BizTalk </li><li>HTML 5 / Responsive Design </li><li>SQL / tuning </li><li>Web Services / SOA technologies </li><li>Messaging technologies </li><li>API technologies </li><li>Test Driven Development </li><li>Python </li><li>Ideal - MEAN stack / Open Source Stack </li><li>Ideal - Chef or Puppet skills </li></ul></li><li>Must have experience with delivering cloud based solutions (private and public)</li><li>Troubleshooting skills - advanced level required to troubleshoot the solution across both software / infrastructure components</li><li>Stays informed of current industry trends and emerging technologies and keeps skills current on modern technologies and tools </li><li>Domain Knowledge in Software Development, Software Design </li><li>Must have experience / background with systems integration </li><li>Bachelor degree in Business or Information Systems required </li><li>Must have 7+ years application development experience </li><li>Must be able to assist / coordinate on vendor management activities </li><li>Must have proven track record of out-of-the-box thinking </li><li>Effective written and verbal communication skills and excellent interpersonal skills are required</li><li>Candidate must be highly accountable, drives for results and ability collaborate with groups across ITS, business and with partners</li></ul> </div><div></div>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-execusource-JV_IC1155681_KO0,17_KE18,29.htm?jl=2604419870", 
+        "industry": "Business Services", 
+        "FinalURL": "http://www.execusource.com/job-description/?id=E85B6E361D43515B7E591B2E77551E6B052C3348", 
+        "datePosted": "2017-12-04", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/372738/execusource-squarelogo-1426793868207.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Roswell", 
+                "addressRegion": "GA", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "ExecuSource"
+        }, 
+        "@type": "JobPosting", 
+        "description": "Category : IT/Software<br/>Location/City : GA - Roswell<br/>Job Type : Permanent<br/><br/>Software Engineer to $115k + Excellent Bonus Potential<br/><br/>Our client, a leader in the data analytics consulting space, is currently adding a Developer to their development team. If you enjoy working with state of the art technologies in an organization dedicated to the lives of citizens of our city, this could be a great role for you! Our client is looking for a Developer to effectively work as part of a team to deliver exceptional software to our clients. Programming skills and understanding of technology principles are more important than any particular language or technology stack. This position comes with a high level of autonomy and responsibility. The successful candidate must be able to develop software from design to deployment with minimal oversight. This position will be full stack: Java and SQL on the backend and JavaScript on the front end.<br/><strong>ENG123</strong>"
+    }, 
+    {
+        "salaryCurrency": "USD", 
+        "title": "Software Engineer", 
+        "url": "https://www.glassdoor.com/job-listing/software-engineer-ebsco-information-services-JV_IC1154594_KO0,17_KE18,44.htm?jl=2585464377", 
+        "industry": "Information Technology", 
+        "FinalURL": "https://careers.ebscoind.com/ebscoinformationservices/job/Ipswich-Software-Engineer-MA-01938/441928800/", 
+        "datePosted": "2017-11-13", 
+        "employmentType": "FULL_TIME", 
+        "validThrough": "2018-01-04", 
+        "image": "https://media.glassdoor.com/sqll/727413/ebsco-information-services-squarelogo-1410150473533.png", 
+        "jobLocation": {
+            "@type": "Place", 
+            "address": {
+                "addressLocality": "Ipswich", 
+                "addressRegion": "MA", 
+                "addressCountry": {
+                    "@type": "Country", 
+                    "name": "US"
+                }, 
+                "@type": "PostalAddress"
+            }
+        }, 
+        "@context": "http://schema.org", 
+        "hiringOrganization": {
+            "@type": "Organization", 
+            "name": "EBSCO Information Services"
+        }, 
+        "@type": "JobPosting", 
+        "description": "EBSCO Information Services (EIS) provides a complete and optimized research solution comprised of e-journals, e-books, and research databases \u2014 all combined with the most powerful discovery service to support the information needs and maximize the research experience of our end-users. Headquartered in Ipswich, MA, EIS employs more than 3,300 people worldwide. We are the leader in our field due to our cutting-edge technology, forward-thinking philosophy, and top-notch workforce. EIS, a division of EBSCO Industries Inc., based in Birmingham, AL, is ranked in the top 200 of the nation\u2019s largest, privately held corporations according to <em>Forbes</em> magazine. EBSCO is a company that will motivate you, inspire you, and allow you to grow. We are looking for the best. If you are too, we encourage you to explore our unique opportunities.<br/><br/><strong><br/>Software Engineer</strong><br/><br/>The mission of the Software Engineer is to play an integral role on an Agile team responsible for the architecture, design, development, testing, delivery, and operation of premium online Discovery and Research products. You will create information products and services that inform the world, advancing research in traditional and emerging fields and transforming learning and education.<br/><br/><strong>Primary Responsibilities:</strong> <ul><li>Provide expertise on system architecture, design, implementation, testing, delivery, and operation of premium online Discovery and Research products.</li><li>Work directly with product management and your team while analyzing and decomposing complex software requirement into simple stories for planning and execution.</li><li>Collaborate with your team to manage and estimate the size and complexity of the features. Perform the technical design, implementation, and testing of features and commit to stories can be accomplished in an iteration.</li><li>Be the technical leader for product features, responsible for ensuring that development activities are coordinated throughout the development cycle.</li><li>Own system and feature quality throughout the development, testing and deployment phases to ensure quality delivery expectations are met.</li><li>Drive value and build to continuously improve the quality of the team\u2019s deliverable.</li><li>Conduct new technology research, proof of concept, and design work that will provide direction for the enhancement of the overall system and products.</li><li>Contribute to software engineering best practices for design, coding standards, performance, security, delivery, and maintainability.</li><li>Live the principles behind the Agile Manifesto and SAFe framework in all interactions.</li></ul><strong>Role-Based Competencies:</strong><ul><li>Analytical skills: Able to structure and process qualitative or quantitative data and draw insightful conclusions from it. Exhibits probing mind and achieves penetrating insights. </li><li>Requirements Analysis: Gathers, organizes and evaluates any information or data needed as input from stakeholders and development team to determine requirements and specifications. </li><li>Technical prowess: Able to quickly get to know our products to a sufficient level and drive updates as needed with Technology teams. Adopts or works with necessary tools for operations. </li><li>Attention to detail: Does not let important details slip through the cracks or derail a project. </li><li>Flexibility/Adaptability: Adjusts quickly to changing priorities and conditions. Copes effectively with complexity and change. </li><li>Communication and Presentation: Able to effectively communicate and present technical concepts to technical and non-technical professionals.</li></ul><strong>Cultural Competencies:</strong><ul><li>Drive</li><li>Positive Attitude</li><li>Good Judgement</li><li>Open Communication</li><li>Collaboration</li><li>Desire to Make an Impact</li><li>Eager to Understand</li><li>Accountable</li><li>Decisive</li><li>Team Player</li> </ul><strong>Requirements:</strong><ul><li>3+ years of professional development experience using C# or Java.</li><li>3+ years of professional web development experience using .NET or Java Application Servers.</li><li>3+ years of experience in large systems software design and development with hands on experience in RESTful Web Services, HTML, XML/JSON, HTTP, SSL.</li><li>3+ years of experience with Web Services lifecycle (design, build, test, deploy), API versioning and design approaches, tools, inter-operability, and SOA concepts.</li><li>3+ years of SQL Server or MySQL development experience.</li><li>Bachelors Degree or equivalent experience</li></ul><strong>Preferred Qualifications:</strong><ul><li>Hands on experience with Cloud services (AWS, Azure, Google Cloud Platform).</li><li>Hands on experience with Netflix OSS.</li><li>Hands on experience with Microservices.</li><li>Hands on experience developing, delivering, and supporting publicly facing web applications.</li><li>Hands on experience developing, delivering, and supporting WCF services.</li><li>Front end development experience with a fluency and passion for modern JavaScript frameworks (React, Backbone, Angular, etc).</li><li>Responsive Web Design experience.</li><li>Familiarity with Continuous Integration and Continuous Delivery (CI/CD) best practices.</li><li>Experience with user interface and graphic design.</li><li>Demonstrated success delivering projects using HTML/CSS.</li><li>Experience in client product development.</li><li>Demonstrated ability to lead or drive a project with sound technical and design skills.</li><li>Demonstrated leadership and communication skills, including an ability to look forward and anticipate problems and assess risk.</li><li>Excellent mentoring skills and the desire to contribute to efforts beyond the scope of the day-to-day project work.</li><li>Advocate of unit testing, automation and test-driven development.</li><li>Detailed understanding of Agile software engineering principles and methodologies.</li></ul><strong>Why the North Shore of Boston and EBSCO are great places to live and work!</strong><br/><br/>Here at EBSCO we will provide relocation assistance to the best and brightest people. We are 45 minutes outside of Boston just minutes from the beach in Ipswich, MA. Ipswich is a part of the North Shore and contains a wide variety of locally owned shops, restaurants, and farms. It is not only a great area to work but to raise a family. Below are resources for you to review to better familiarize yourself with Ipswich and the North Shore area. If you have any questions please don\u2019t hesitate to reach out to EBSCO\u2019s Talent Acquisition Team.<br/><br/>http://www.massvacation.com/regions-towns/north-of-boston/<br/><br/>http://northofboston.org/<br/><br/><strong>Requirements:</strong><ul><li>3+ years of professional development experience using C# or Java.</li><li>3+ years of professional web development experience using .NET or Java Application Servers.</li><li>3+ years of experience in large systems software design and development with hands on experience in RESTful Web Services, HTML, XML/JSON, HTTP, SSL.</li><li>3+ years of experience with Web Services lifecycle (design, build, test, deploy), API versioning and design approaches, tools, inter-operability, and SOA concepts.</li><li>3+ years of SQL Server or MySQL development experience.</li><li>Bachelors Degree or equivalent experience</li></ul><strong>Preferred Qualifications:</strong><ul><li>Hands on experience with Cloud services (AWS, Azure, Google Cloud Platform).</li><li>Hands on experience with Netflix OSS.</li><li>Hands on experience with Microservices.</li><li>Hands on experience developing, delivering, and supporting publicly facing web applications.</li><li>Hands on experience developing, delivering, and supporting WCF services.</li><li>Front end development experience with a fluency and passion for modern JavaScript frameworks (React, Backbone, Angular, etc).</li><li>Responsive Web Design experience.</li><li>Familiarity with Continuous Integration and Continuous Delivery (CI/CD) best practices.</li><li>Experience with user interface and graphic design.</li><li>Demonstrated success delivering projects using HTML/CSS.</li><li>Experience in client product development.</li><li>Demonstrated ability to lead or drive a project with sound technical and design skills.</li><li>Demonstrated leadership and communication skills, including an ability to look forward and anticipate problems and assess risk.</li><li>Excellent mentoring skills and the desire to contribute to efforts beyond the scope of the day-to-day project work.</li><li>Advocate of unit testing, automation and test-driven development.</li><li>Detailed understanding of Agile software engineering principles and methodologies.</li></ul><strong>Why the North Shore of Boston and EBSCO are great places to live and work!</strong><br/><br/>Here at EBSCO we will provide relocation assistance to the best and brightest people. We are 45 minutes outside of Boston just minutes from the beach in Ipswich, MA. Ipswich is a part of the North Shore and contains a wide variety of locally owned shops, restaurants, and farms. It is not only a great area to work but to raise a family. Below are resources for you to review to better familiarize yourself with Ipswich and the North Shore area. If you have any questions please don\u2019t hesitate to reach out to EBSCO\u2019s Talent Acquisition Team.<br/><br/>http://www.massvacation.com/regions-towns/north-of-boston/<br/><br/>http://northofboston.org/<br/><br/><strong>Nearest Major Market:</strong> Boston<br/><strong>Job Segment:</strong> <br/> Developer, Software Engineer, Engineer, Java, Database, Technology, Engineering"
+    }
+]
