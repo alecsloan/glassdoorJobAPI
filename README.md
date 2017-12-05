@@ -9,6 +9,10 @@ This script will scrape job listings off of Glassdoor and get you information su
 I'm a senior CS student who's fairly new to professional software development and even Github. So if you have any suggestions, advice, or comments feel free to connect via LinkedIn or Email.
 I'm also looking for a job, so that's one of the motivations for me developing this script ;). Note: this is an older version of what I use for my website (Soon to be launched), which inserts directly to MySQL. So if you need help converting the script to insert to your DB just let me know and I'll help!
 ## Install
+Setup -
+Get Beautiful Soup:
+    
+    $ sudo pip install bs4
 Clone:
 
     $ git clone https://github.com/alecsloan/glassdoorJobAPI 
@@ -24,3 +28,4 @@ Notes:
 
     - Jobs pull in increments of 30 (amount that Glassdoor displays on each page)
     - Json folder is needed by default to hold the json files. You could change this in script if you want
+    - Operational on Ubuntu 14.04
