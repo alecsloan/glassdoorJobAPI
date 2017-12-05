@@ -12,11 +12,14 @@ I'm also looking for a job, so that's one of the motivations for me developing t
 Clone:
     $ clone https://github.com/alecsloan/glassdoorJobAPI 
 ## Usage
-Jobs pull in increments of 30 (Glassdoor pages are 30 jobs/page).
 Context:
+    
     $ python jobs.py job level count
     Examples:
     $ python jobs.py "software engineer new grad" "all" 30
     $ python jobs.py "software engineer" "entry level" 60
     
-    
+Notes:
+
+    - Jobs pull in increments of 30 (amount that Glassdoor displays on each page)
+    - Json folder is needed by default to hold the json files. You could change this in script if you want
